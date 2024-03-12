@@ -1,6 +1,7 @@
 # IE Fitizens Corporate Project
 
 IE Master of Business Analytics and Big Data - Fitizens. 
+
 Final Corporate Project developed by Mario Bevilacqua, Charles Beyrard, Aldemar Pinzón, Marcos Ray and Miguel Lopez Rosa 
 
 FITIZENS aims to enhance the fitness experience for users globally, making exercise more accessible, efficient, and engaging. In this light, we were tasked with developing a model to detect a set of exercises using MLKit and Computer Vision. The architecture and implementation of the FITIZENS project are characterized by a robust, modular design that facilitates real-time exercise detection and analytics. The system architecture combines video input processing, pose estimation, action recognition, and repetition counting into a cohesive framework.
