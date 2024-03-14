@@ -8,4 +8,4 @@ The methodology adopted for this project involved a comprehensive approach, emph
 
 Deliverables: Final Report, Presentation Slides, Code, Live Demo
 
-Corporate Project developed by Mario Bevilacqua, Charles Beyrard, Aldemar Pinzón, Marcos Ray and Miguel Lopez Rosa
+Corporate Project developed by Mario Bevilacqua, Charles Beyrard, Aldemar Pinzón, and Marcos Ray
