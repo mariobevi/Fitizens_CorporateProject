@@ -10,4 +10,6 @@ Deliverables: Final Report, Presentation Slides, Code, Live Demo
 
 Corporate Project developed by Mario Bevilacqua, Charles Beyrard, Aldemar Pinzón, and Marcos Ray
 
-![Short Demo](trim.mp4)
+![Short Demo](screenshot_model)
+
+
